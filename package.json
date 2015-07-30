@@ -1,0 +1,18 @@
+{
+  "name": "Betbook",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dasanor",
+  "license": "Propietary",
+  "bin": {
+    "betbook": "./betbook.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^5.0.0-alpha.2",
+    "method-override": "^2.3.4",
+    "mongoose": "^4.0.7"
+  }
+}
